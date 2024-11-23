@@ -7,7 +7,7 @@ class conexion():
         self.__user="root"
         self.__password =""
         self.__port = 3307
-        self.__database="mvc"
+        self.__database="juego"
         self.__conection = None
 
     def crearConexion(self):
