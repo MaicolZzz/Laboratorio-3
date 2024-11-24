@@ -1,6 +1,6 @@
-
+from Vista.loggin import Loggin
 
 class Main():
     def main():
-        app = None
+        app = Loggin
     main()
